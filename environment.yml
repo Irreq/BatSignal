@@ -1,0 +1,6 @@
+name: aw
+channels:
+  - defaults
+dependencies:
+  - cupy
+  - scipy
